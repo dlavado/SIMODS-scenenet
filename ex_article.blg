@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ex_article.aux
+The style file: siamplain.bst
+Database file #1: references.bib
+Warning--can't use both volume and number fields in leite21
+Warning--can't use both volume and number fields in ribeiro2018anchors
+Warning--can't use both volume and number fields in xu2020geometry
+Warning--can't use both volume and number fields in yan2021sparse
+You've used 50 entries,
+            2244 wiz_defined-function locations,
+            810 strings with 15196 characters,
+and the built_in function-call counts, 25054 in all, are:
+= -- 2245
+> -- 1313
+< -- 0
++ -- 518
+- -- 466
+* -- 1930
+:= -- 3545
+add.period$ -- 50
+call.type$ -- 50
+change.case$ -- 383
+chr.to.int$ -- 0
+cite$ -- 54
+duplicate$ -- 1215
+empty$ -- 2050
+format.name$ -- 466
+if$ -- 5519
+int.to.chr$ -- 0
+int.to.str$ -- 50
+missing$ -- 50
+newline$ -- 153
+num.names$ -- 100
+pop$ -- 605
+preamble$ -- 1
+purify$ -- 333
+quote$ -- 0
+skip$ -- 879
+stack$ -- 0
+substring$ -- 1669
+swap$ -- 484
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 200
+warning$ -- 4
+while$ -- 215
+width$ -- 52
+write$ -- 455
+(There were 4 warnings)

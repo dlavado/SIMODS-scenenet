@@ -1,0 +1,275 @@
+\begin{thebibliography}{10}
+
+\bibitem{alzubaidi2021review}
+{\sc L.~Alzubaidi, J.~Zhang, A.~J. Humaidi, A.~Al-Dujaili, Y.~Duan,
+  O.~Al-Shamma, J.~Santamar{\'\i}a, M.~A. Fadhel, M.~Al-Amidie, and L.~Farhan},
+  {\em Review of deep learning: Concepts, cnn architectures, challenges,
+  applications, future directions}, Journal of big Data, 8 (2021), pp.~1--74.
+
+\bibitem{SemKITTI}
+{\sc J.~Behley, M.~Garbade, A.~Milioto, J.~Quenzel, S.~Behnke, C.~Stachniss,
+  and J.~Gall}, {\em Semantickitti: A dataset for semantic scene understanding
+  of lidar sequences}, in Proceedings of the IEEE/CVF International Conference
+  on Computer Vision, 2019, pp.~9297--9307.
+
+\bibitem{GENEO19}
+{\sc M.~G. Bergomi, P.~Frosini, D.~Giorgi, and N.~Quercioli}, {\em Towards a
+  topological--geometrical theory of group equivariant non-expansive operators
+  for data analysis and machine learning}, Nature Machine Intelligence, 1
+  (2019), pp.~423--433.
+
+\bibitem{bocchi2022geneonet}
+{\sc G.~Bocchi, P.~Frosini, A.~Micheletti, A.~Pedretti, C.~Gratteri,
+  F.~Lunghini, A.~R. Beccari, and C.~Talarico}, {\em Geneonet: A new machine
+  learning paradigm based on group equivariant non-expansive operators. an
+  application to protein pocket detection}, arXiv preprint arXiv:2202.00451,
+  (2022).
+
+\bibitem{botteghi2020finite}
+{\sc S.~Botteghi, M.~Brasini, P.~Frosini, and N.~Quercioli}, {\em On the finite
+  representation of group equivariant operators via permutant measures}, arXiv
+  preprint arXiv:2008.06340,  (2020).
+
+\bibitem{GENEO21}
+{\sc P.~Cascarano, P.~Frosini, N.~Quercioli, and A.~Saki}, {\em On the
+  geometric and riemannian structure of the spaces of group equivariant
+  non-expansive operators}, arXiv preprint arXiv:2103.02543,  (2021).
+
+\bibitem{Chefer_2021_CVPR}
+{\sc H.~Chefer, S.~Gur, and L.~Wolf}, {\em Transformer interpretability beyond
+  attention visualization}, in Proceedings of the IEEE/CVF Conference on
+  Computer Vision and Pattern Recognition (CVPR), June 2021, pp.~782--791.
+
+\bibitem{chen2020concept}
+{\sc Z.~Chen, Y.~Bei, and C.~Rudin}, {\em Concept whitening for interpretable
+  image recognition}, Nature Machine Intelligence, 2 (2020), pp.~772--782.
+
+\bibitem{AF2S3Net}
+{\sc R.~Cheng, R.~Razani, E.~Taghavi, E.~Li, and B.~Liu}, {\em 2-s3net:
+  Attentive feature fusion with adaptive feature selection for sparse semantic
+  segmentation network}, in Proceedings of the IEEE/CVF conference on Computer
+  Vision and Pattern Recognition, 2021, pp.~12547--12556.
+
+\bibitem{conti2022construction}
+{\sc F.~Conti, P.~Frosini, and N.~Quercioli}, {\em On the construction of group
+  equivariant non-expansive operators via permutants and symmetric functions},
+  Frontiers in Artificial Intelligence, 5 (2022), p.~16.
+
+\bibitem{ding2021electric}
+{\sc L.~Ding, J.~Wang, and Y.~Wu}, {\em Electric power line patrol operation
+  based on vision and laser slam fusion perception}, in 2021 IEEE 4th
+  International Conference on Automation, Electronics and Electrical
+  Engineering (AUTEEE), IEEE, 2021, pp.~125--129.
+
+\bibitem{doshi2017towards}
+{\sc F.~Doshi-Velez and B.~Kim}, {\em Towards a rigorous science of
+  interpretable machine learning}, arXiv preprint arXiv:1702.08608,  (2017).
+
+\bibitem{fong2017interpretable}
+{\sc R.~C. Fong and A.~Vedaldi}, {\em Interpretable explanations of black boxes
+  by meaningful perturbation}, in Proceedings of the IEEE international
+  conference on computer vision, 2017, pp.~3429--3437.
+
+\bibitem{graham20183d}
+{\sc B.~Graham, M.~Engelcke, and L.~Van Der~Maaten}, {\em 3d semantic
+  segmentation with submanifold sparse convolutional networks}, in Proceedings
+  of the IEEE conference on Computer Vision and Pattern Recognition, 2018,
+  pp.~9224--9232.
+
+\bibitem{guidotti2018survey}
+{\sc R.~Guidotti, A.~Monreale, S.~Ruggieri, F.~Turini, F.~Giannotti, and
+  D.~Pedreschi}, {\em A survey of methods for explaining black box models}, ACM
+  computing surveys (CSUR), 51 (2018), pp.~1--42.
+
+\bibitem{guo2019research}
+{\sc T.~Guo, L.~Xu, Y.~Chen, Y.~Liu, J.~Zhao, X.~Luo, and S.~Wu}, {\em Research
+  on point cloud power line segmentation and fitting algorithm}, in 2019 IEEE
+  4th Advanced Information Technology, Electronic and Automation Control
+  Conference (IAEAC), vol.~1, IEEE, 2019, pp.~2404--2409.
+
+\bibitem{guo2020deep}
+{\sc Y.~Guo, H.~Wang, Q.~Hu, H.~Liu, L.~Liu, and M.~Bennamoun}, {\em Deep
+  learning for 3d point clouds: A survey}, IEEE transactions on pattern
+  analysis and machine intelligence, 43 (2020), pp.~4338--4364.
+
+\bibitem{Semantic3D}
+{\sc T.~Hackel, N.~Savinov, L.~Ladicky, J.~D. Wegner, K.~Schindler, and
+  M.~Pollefeys}, {\em Semantic3d. net: A new large-scale point cloud
+  classification benchmark}, arXiv preprint arXiv:1704.03847,  (2017).
+
+\bibitem{SensatUrban}
+{\sc Q.~Hu, B.~Yang, S.~Khalid, W.~Xiao, N.~Trigoni, and A.~Markham}, {\em
+  Towards semantic segmentation of urban-scale 3d point clouds: A dataset,
+  benchmarks and challenges}, in Proceedings of the IEEE/CVF conference on
+  computer vision and pattern recognition, 2021, pp.~4977--4987.
+
+\bibitem{hu2020randla}
+{\sc Q.~Hu, B.~Yang, L.~Xie, S.~Rosa, Y.~Guo, Z.~Wang, N.~Trigoni, and
+  A.~Markham}, {\em Randla-net: Efficient semantic segmentation of large-scale
+  point clouds}, in Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition, 2020, pp.~11108--11117.
+
+\bibitem{hua2018pointwise}
+{\sc B.-S. Hua, M.-K. Tran, and S.-K. Yeung}, {\em Pointwise convolutional
+  neural networks}, in Proceedings of the IEEE conference on Computer Vision
+  and Pattern Recognition, 2018, pp.~984--993.
+
+\bibitem{le2018pointgrid}
+{\sc T.~Le and Y.~Duan}, {\em Pointgrid: A deep network for 3d shape
+  understanding}, in Proceedings of the IEEE conference on Computer Vision and
+  Pattern Recognition, 2018, pp.~9204--9214.
+
+\bibitem{li2018pointcnn}
+{\sc Y.~Li, R.~Bu, M.~Sun, W.~Wu, X.~Di, and B.~Chen}, {\em {PointCNN}:
+  Convolution on x-transformed points}, Advances in Neural Information
+  Processing Systems, 31 (2018).
+
+\bibitem{lipton2018mythos}
+{\sc Z.~C. Lipton}, {\em The mythos of model interpretability: In machine
+  learning, the concept of interpretability is both important and slippery.},
+  Queue, 16 (2018), pp.~31--57.
+
+\bibitem{long2015fully}
+{\sc J.~Long, E.~Shelhamer, and T.~Darrell}, {\em Fully convolutional networks
+  for semantic segmentation}, in Proceedings of the IEEE conference on Computer
+  Vision and Pattern Recognition, 2015, pp.~3431--3440.
+
+\bibitem{muhammad2020deep}
+{\sc K.~Muhammad, A.~Ullah, J.~Lloret, J.~Del~Ser, and V.~H.~C.
+  de~Albuquerque}, {\em Deep learning for safe autonomous driving: Current
+  challenges and future directions}, IEEE Transactions on Intelligent
+  Transportation Systems, 22 (2020), pp.~4316--4336.
+
+\bibitem{qi2017pointnet}
+{\sc C.~R. Qi, H.~Su, K.~Mo, and L.~J. Guibas}, {\em Pointnet: Deep learning on
+  point sets for 3d classification and segmentation}, in Proceedings of the
+  IEEE conference on Computer Vision and Pattern Recognition, 2017,
+  pp.~652--660.
+
+\bibitem{qi2017pointnet++}
+{\sc C.~R. Qi, L.~Yi, H.~Su, and L.~J. Guibas}, {\em Pointnet++: Deep
+  hierarchical feature learning on point sets in a metric space}, Advances in
+  neural information processing systems, 30 (2017).
+
+\bibitem{rethage2018fully}
+{\sc D.~Rethage, J.~Wald, J.~Sturm, N.~Navab, and F.~Tombari}, {\em
+  Fully-convolutional point networks for large-scale point clouds}, in
+  Proceedings of the European Conference on Computer Vision (ECCV), 2018,
+  pp.~596--611.
+
+\bibitem{leite21}
+{\sc M.~Ribeiro and J.~Leite}, {\em Aligning artificial neural networks and
+  ontologies towards explainable ai}, in Proceedings of the AAAI Conference on
+  Artificial Intelligence, vol.~35, 2021, pp.~4932--4940.
+
+\bibitem{ribeiro2016should}
+{\sc M.~T. Ribeiro, S.~Singh, and C.~Guestrin}, {\em " why should i trust you?"
+  explaining the predictions of any classifier}, in Proceedings of the 22nd ACM
+  SIGKDD international conference on knowledge discovery and data mining, 2016,
+  pp.~1135--1144.
+
+\bibitem{ribeiro2018anchors}
+{\sc M.~T. Ribeiro, S.~Singh, and C.~Guestrin}, {\em Anchors: High-precision
+  model-agnostic explanations}, in Proceedings of the AAAI conference on
+  artificial intelligence, vol.~32, 2018.
+
+\bibitem{rudin2019stop}
+{\sc C.~Rudin}, {\em Stop explaining black box machine learning models for high
+  stakes decisions and use interpretable models instead}, Nature Machine
+  Intelligence, 1 (2019), pp.~206--215.
+
+\bibitem{salehi2017tversky}
+{\sc S.~S.~M. Salehi, D.~Erdogmus, and A.~Gholipour}, {\em Tversky loss
+  function for image segmentation using 3d fully convolutional deep networks},
+  in Machine Learning in Medical Imaging: 8th International Workshop, MLMI
+  2017, Held in Conjunction with MICCAI 2017, Quebec City, QC, Canada,
+  September 10, 2017, Proceedings 8, Springer, 2017, pp.~379--387.
+
+\bibitem{steininger2021density}
+{\sc M.~Steininger, K.~Kobs, P.~Davidson, A.~Krause, and A.~Hotho}, {\em
+  Density-based weighting for imbalanced regression}, Machine Learning, 110
+  (2021), pp.~2187--2211.
+
+\bibitem{su2018splatnet}
+{\sc H.~Su, V.~Jampani, D.~Sun, S.~Maji, E.~Kalogerakis, M.-H. Yang, and
+  J.~Kautz}, {\em Splatnet: Sparse lattice networks for point cloud
+  processing}, in Proceedings of the IEEE conference on Computer Vision and
+  Pattern Recognition, 2018, pp.~2530--2539.
+
+\bibitem{tang2020searching}
+{\sc H.~Tang, Z.~Liu, S.~Zhao, Y.~Lin, J.~Lin, H.~Wang, and S.~Han}, {\em
+  Searching efficient 3d architectures with sparse point-voxel convolution}, in
+  European conference on computer vision, Springer, 2020, pp.~685--702.
+
+\bibitem{tao2019study}
+{\sc G.~Tao, X.~Lianggang, Y.~Heng, Y.~Liugui, Z.~Jian, W.~Shaohua, and W.~Di},
+  {\em Study on segmentation algorithm with missing point cloud in power line},
+  in 2019 IEEE 3rd Advanced Information Management, Communicates, Electronic
+  and Automation Control Conference (IMCEC), IEEE, 2019, pp.~1895--1899.
+
+\bibitem{tatarchenko2018tangent}
+{\sc M.~Tatarchenko, J.~Park, V.~Koltun, and Q.-Y. Zhou}, {\em Tangent
+  convolutions for dense prediction in 3d}, in Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition, 2018, pp.~3887--3896.
+
+\bibitem{tchapmi2017segcloud}
+{\sc L.~Tchapmi, C.~Choy, I.~Armeni, J.~Gwak, and S.~Savarese}, {\em Segcloud:
+  Semantic segmentation of 3d point clouds}, in 2017 International Conference
+  on 3D vision (3DV), IEEE, 2017, pp.~537--547.
+
+\bibitem{thomas2019kpconv}
+{\sc H.~Thomas, C.~R. Qi, J.-E. Deschaud, B.~Marcotegui, F.~Goulette, and L.~J.
+  Guibas}, {\em Kpconv: Flexible and deformable convolution for point clouds},
+  in Proceedings of the IEEE/CVF International Conference on Computer Vision,
+  2019, pp.~6411--6420.
+
+\bibitem{voita2019analyzing}
+{\sc E.~Voita, D.~Talbot, F.~Moiseev, R.~Sennrich, and I.~Titov}, {\em
+  Analyzing multi-head self-attention: Specialized heads do the heavy lifting,
+  the rest can be pruned}, arXiv preprint arXiv:1905.09418,  (2019).
+
+\bibitem{wang2017cnn}
+{\sc P.-S. Wang, Y.~Liu, Y.-X. Guo, C.-Y. Sun, and X.~Tong}, {\em {O-CNN}:
+  Octree-based convolutional neural networks for 3d shape analysis}, ACM
+  Transactions On Graphics (TOG), 36 (2017), pp.~1--11.
+
+\bibitem{wu2019pointconv}
+{\sc W.~Wu, Z.~Qi, and L.~Fuxin}, {\em Pointconv: Deep convolutional networks
+  on 3d point clouds}, in Proceedings of the IEEE/CVF Conference on Computer
+  Vision and Pattern Recognition, 2019, pp.~9621--9630.
+
+\bibitem{xu2021rpvnet}
+{\sc J.~Xu, R.~Zhang, J.~Dou, Y.~Zhu, J.~Sun, and S.~Pu}, {\em Rpvnet: A deep
+  and efficient range-point-voxel fusion network for lidar point cloud
+  segmentation}, in Proceedings of the IEEE/CVF International Conference on
+  Computer Vision, 2021, pp.~16024--16033.
+
+\bibitem{xu2020geometry}
+{\sc M.~Xu, Z.~Zhou, and Y.~Qiao}, {\em Geometry sharing network for 3d point
+  cloud classification and segmentation}, in Proceedings of the AAAI Conference
+  on Artificial Intelligence, vol.~34, 2020, pp.~12500--12507.
+
+\bibitem{yan2021sparse}
+{\sc X.~Yan, J.~Gao, J.~Li, R.~Zhang, Z.~Li, R.~Huang, and S.~Cui}, {\em Sparse
+  single sweep lidar point cloud segmentation via learning contextual shape
+  priors from scene completion}, in Proceedings of the AAAI Conference on
+  Artificial Intelligence, vol.~35, 2021, pp.~3101--3109.
+
+\bibitem{yan20222dpass}
+{\sc X.~{Yan}, J.~{Gao}, C.~{Zheng}, C.~{Zheng}, R.~{Zhang}, S.~{Cui}, and
+  Z.~{Li}}, {\em {2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR
+  Point Clouds}}, arXiv e-prints,  (2022), arXiv:2207.04397,
+  p.~arXiv:2207.04397, \url{https://arxiv.org/abs/2207.04397}.
+
+\bibitem{Zhang_2018_CVPR}
+{\sc Q.~Zhang, Y.~N. Wu, and S.-C. Zhu}, {\em Interpretable convolutional
+  neural networks}, in Proceedings of the IEEE Conference on Computer Vision
+  and Pattern Recognition (CVPR), June 2018.
+
+\bibitem{Cylinder3D}
+{\sc X.~Zhu, H.~Zhou, T.~Wang, F.~Hong, Y.~Ma, W.~Li, H.~Li, and D.~Lin}, {\em
+  Cylindrical and asymmetrical 3d convolution networks for lidar segmentation},
+  in Proceedings of the IEEE/CVF conference on Computer Vision and Pattern
+  Recognition, 2021, pp.~9939--9948.
+
+\end{thebibliography}
